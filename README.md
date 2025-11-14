@@ -31,7 +31,7 @@ The 3 Sickness Types The Game Refers To You Are **Common Cold**, **Fever** or **
 
 **Energy** You Need This For Websites And In General, Sleep To Regain
 
-**Endings**
+## **Endings**
 There are 2 Endings both have opposite requirments, there is 1 Good ending and 1 Bad ending
 
 **Ending One** Get Your Health Bar Below 50%
