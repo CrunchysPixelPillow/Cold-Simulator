@@ -3,11 +3,13 @@ This Game Is Ran In The Terminal, Its Designed For Windows
 
 But Should Still Work On Others If You Run The Java File StandAlone, Or Get A BatchRunner
 
+To Run StandAlone Use (java -jar Main.jar) In Project Root
+
 Project is around 200 lines before compiled into java
 
 Has a few built in ways to handle errors
 
-Waits a little bit before each operation to prevent major stack overflow(Will improve if i work on this again)\
+Waits a little bit before each operation to prevent major stack overflow(Will improve if i work on this again)
 
 Checks for negatives in the bars and prevents them
 ## Discription
@@ -42,7 +44,6 @@ There are 2 Endings both have opposite requirments, there is 1 Good ending and 1
 
 ## Showcase
 
-## dependices
-Batch Runner (If not on windows)
+## dependices/Info
+Java SDK (I Recommend Eclipse sdk)
 
-Java
