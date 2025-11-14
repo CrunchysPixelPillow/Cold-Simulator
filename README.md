@@ -1,5 +1,7 @@
 ## Sickness Simulator
+This Game Is Ran In The Terminal, Its Designed For Windows
 
+But Should Still Work On Others If You Run The Java File StandAlone, Or Get A BatchRunner
 ## Discription
 This is a java based terminal game made with haxe targeted at java compile, the game was made for a friend while they were sick
 
@@ -14,8 +16,11 @@ The main goal of the game is to **Lower Your Sickness** low enough were you can 
 The 3 Sickness Types The Game Refers To You Are **Common Cold**, **Fever** or **I forgot the last one**
 
 **Sickness**
+
 **Health** Your Health Relates To Your Sickness Levels
+
 **Happiness**
+
 **Energy**
 
 
